@@ -20,23 +20,23 @@ artifacts:
       target: jws-6.2.0-optional-native-components-RHEL9-x86_64.zip
       description: "Artifact is available on Customer Portal: https://access.redhat.com/downloads/content/application-services/webserver/6.2/releases"
       md5: 8df7f6ef58b262519e6a4cdb4072e761
-    - name: jws-6.2.5.ER1-application-server.zip
-      target: jws-6.2.5-application-server.zip
-      md5: 27ae9ada52af921d3071cff4339dc6ad
+    - name: jws-6.2.6.ER1-application-server.zip
+      target: jws-6.2.6-application-server.zip
+      md5: 42ffcb1db6dc3dfa55da529b03ac68bf
       description: "Artifact is available on Customer Portal: https://access.redhat.com/downloads/content/application-services/webserver/6.2/releases"
-    - name: jws-6.2.5.ER1-optional-native-components-RHEL9-aarch64.zip
-      target: jws-6.2.5-optional-native-components-RHEL9-aarch64.zip
-      md5: d575de2147eec160699beaa67f70dd00
-    - name: jws-6.2.5.ER1-optional-native-components-RHEL9-ppc64le.zip
-      target: jws-6.2.5-optional-native-components-RHEL9-ppc64le.zip
-      md5: 059ce13bdeb42886ede364552f8f0b1a
-    - name: jws-6.2.5.ER1-optional-native-components-RHEL9-s390x.zip
-      target: jws-6.2.5-optional-native-components-RHEL9-s390x.zip
-      md5: 902d8879ec61e323da8c41e3d4ac7d91
-    - name: jws-6.2.5.ER1-optional-native-components-RHEL9-x86_64.zip
-      target: jws-6.2.5-optional-native-components-RHEL9-x86_64.zip
+    - name: jws-6.2.6.ER1-optional-native-components-RHEL9-aarch64.zip
+      target: jws-6.2.6-optional-native-components-RHEL9-aarch64.zip
+      md5: 1b3e4477a1ee6b5439ed2a74f028e3bb
+    - name: jws-6.2.6.ER1-optional-native-components-RHEL9-ppc64le.zip
+      target: jws-6.2.6-optional-native-components-RHEL9-ppc64le.zip
+      md5: 42277b32590f02d5ffdbba4d3be396d0
+    - name: jws-6.2.6.ER1-optional-native-components-RHEL9-s390x.zip
+      target: jws-6.2.6-optional-native-components-RHEL9-s390x.zip
+      md5: 2b7f6ad235c08e3eb3dfb504f478856a
+    - name: jws-6.2.6.ER1-optional-native-components-RHEL9-x86_64.zip
+      target: jws-6.2.6-optional-native-components-RHEL9-x86_64.zip
       description: "Artifact is available on Customer Portal: https://access.redhat.com/downloads/content/application-services/webserver/6.2/releases"
-      md5: 78318c0b7b83c81c628e391256dc4415
+      md5: 1210293c4337af283b9e6f9de7e17f24
 packages:
   install:
     - unzip
